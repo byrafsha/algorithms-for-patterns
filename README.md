@@ -20,7 +20,7 @@ This project contains 4 different files, each providing a solution to a separate
 
 ##### pBq2.c is an algorithm for finding a pattern in a string using Rabin Karp algorithm
 
-#### pBq4.cpp is an algorithm for pattern matching using Boyer Moore algorithm
+##### pBq4.cpp is an algorithm for pattern matching using Boyer Moore algorithm
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
