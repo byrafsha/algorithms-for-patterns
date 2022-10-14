@@ -3,7 +3,7 @@
 
 This code was written as part of a course assignment for Design and Analysis of Algorithms course during my Bachelor's degree in Computer Science. We were given the choice to either code it in C++ or C. During this course, we executed and tested our code on Ubuntu Linux, directly on the terminal.
 
-In order to compile and execute a CPP file on a Linux terminal the following steps can be followed on a termiinal:
+In order to compile and execute a CPP file on a Linux terminal, navigate to the directory where the code file is saved and then follow these steps in the terminal:
 
 ### gcc filename.cpp -o filename-executable
 
