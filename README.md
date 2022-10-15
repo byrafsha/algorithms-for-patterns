@@ -1,4 +1,4 @@
-# AlgoAssignment
+# Algorithms for Strings and Patterns
 ## Design and Analysis of Algorithms, Assignment - BS CS Degree Program
 
 This code was written as part of a course assignment for Design and Analysis of Algorithms course during my Bachelor's degree in Computer Science. We were given the choice to either code it in C++ or C. During this course, we executed and tested our code on Ubuntu Linux, directly on the terminal.
