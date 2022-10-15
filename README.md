@@ -7,7 +7,7 @@ In order to compile and execute a CPP file on a Linux terminal, navigate to the 
 
 ### gcc filename.cpp -o filename-executable
 
-This will create an executable file for your code, within your current directly. You can verify this by either navigating to your current directory in your files or by simply execuring an ls command in the directory to show the files present there. 
+This will create an executable file for your code, within your current directly. You can verify this by either navigating to your current directory in your files or by simply executing an "ls" command in the directory to show the files present there. 
 
 Once verified, you can run this executable file using the command:
 ### ./filename-executable
