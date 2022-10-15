@@ -16,12 +16,16 @@ Once verified, you can run this executable file using the command:
 
 This project contains 4 different files, each providing a solution to a separate question statement for the course assignment.
 
-##### pAq2.cpp is for the finding the Longest Palindroic Subsequence in a given string using Knuth Morris Pratt algorithm
+##### pAq2.cpp is a suggestive improvement for string matching, to Naive search. I have found the Longest Palindronic Subsequence using Knuth Morris Pratt algorithm, for this question
+
+##### pBq1.cpp is the implementation of KMP algorithm
 
 ##### pBq2.c is an algorithm for finding a pattern in a string using Rabin Karp algorithm
 
-##### pBq4.cpp is an algorithm for pattern matching using Boyer Moore algorithm
+##### pBq4.cpp is Boyer Moore's Bad Character Heuristic algorithm for pattern matching
 
+Here is the complete solved assignment:
+[i170028_RafshaMazhar_E.pdf](https://github.com/byrafsha/algorithms-for-patterns/files/9791710/i170028_RafshaMazhar_E.1.pdf)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
